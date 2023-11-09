@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">
+        Lab1</string>
+    <string name="ask_question">Задайте вопрос</string>
+    <string name="send">Отправить</string>
+    <string name="monday">Понедельник</string>
+    <string name="tuesday">Вторник</string>
+    <string name="wednesday">Среда</string>
+    <string name="thursday">Четверг</string>
+    <string name="friday">Пятница</string>
+    <string name="saturday">Суббота</string>
+    <string name="sunday">Воскресенье</string>
+    <string name="user">Пользователь</string>
+    <string name="assistent">Ассистент</string>
+</resources>
